@@ -515,3 +515,27 @@ p {
         font-size: 150%;
     }
 }
+
+@media (max-width: 470px) {
+    p {
+        font-size: 100%;
+    }
+
+    .bb1b {
+        height: 20%;
+
+
+    }
+}
+
+@media (max-width: 370px) {
+    p {
+        font-size: 80%;
+    }
+
+    .bb1b {
+        height: 18%;
+
+
+    }
+}
