@@ -488,20 +488,20 @@ p {
         top: 70vh;
         transform: rotate(0deg);
     }
-}
 
-98% {
-    position: absolute;
-    left: 5px;
-    top: 75vh;
-}
 
-100% {
-    position: absolute;
-    top: 80vh;
-    left: 0px;
-    transform: rotate(0deg);
-}
+    98% {
+        position: absolute;
+        left: 5px;
+        top: 75vh;
+    }
+
+    100% {
+        position: absolute;
+        top: 80vh;
+        left: 0px;
+        transform: rotate(0deg);
+    }
 }
 
 @media (max-width: 900px) {
